@@ -66,45 +66,43 @@ def filter_responses(text):
 
 # Function to classify sentiment and handle edge cases
 def classify_sentiment(text, sentiment, score, question, threshold=0.6):
-    if text in ["no", "nan", "na", "n/a", "doesn't apply", "not applicable", "im not too sure", "not at this time", "no thank you"]:
+    if text in ["no", "nan", "na", "n/a", "doesn't apply", "not applicable", "im not too sure", "not at this time", "no thank you", "not sure", "not really sure", "other"]:
         return "N/A", 0.0
     
     # Custom rules based on question context
     if question == "How is food or housing insecurity affecting your work?":
-        if any(phrase in text for phrase in ["not", "do not", "does not", "no"]):
+        if any(phrase in text for phrase in ["not", "do not", "does not", "no", "not affecting", "not affected", "it is not", "not applicable"]):
             return "POSITIVE", score
-        elif any(word in text for word in ["affect", "impact", "struggle", "unable", "hard", "difficult", "worry", "concern", "issue"]):
+        elif any(word in text for word in ["struggle", "struggling", "focus", "distracted", "low income", "concentrate", "cannot afford", "suffers", "unable", "hard", "difficult", "worry", "concern", "issue", "hungry", "tired", "stress", "prices", "anxiety", "lack", "cost of rent", "can't afford", "depressed", "inflation", "expensive", "yes", "headache", "sick", "multiple jobs", "affect the quality of my work", "feeling sleepy and hungry at work", "can't concentrate", "distracted", "housing in an apartment", "worries me", "not enjoy my job", "rise of costs", "unreliable", "no food fresh", "no choice", "i'm not paid enough"]):
             return "NEGATIVE", score
     
     elif question == "What could your college or university do to address food and housing insecurity?":
-        if any(phrase in text for phrase in ["help", "support", "provide", "offer", "assist", "resource", "hope", "caring", "ready to give a helping hand", "opening a food pantry", "opening a small pantry"]):
+        if any(phrase in text for phrase in ["help", "support", "provide", "offer", "assist", "resource", "hope", "caring", "ready to give a helping hand", "opening a food pantry", "opening a small pantry", "good assistance", "very helpful", "made active strides to provide"]):
             return "POSITIVE", score
-        elif any(word in text for word in ["don't", "not", "lack", "need", "problem", "compensation", "wages", "pay", "reevaluated", "living wage", "fair wage", "higher wage", "medical benefits"]):
+        elif any(word in text for word in ["don't", "not", "lack", "need", "problem", "compensation", "wages", "pay", "reevaluated", "living wage", "fair wage", "higher wage", "medical benefits", "raise pay", "make it affordable", "need", "pay fair wages", "better wages", "lower food prices", "nightmares", "increase salary"]):
             return "NEGATIVE", score
     
     elif question == "Is there anything else you would like to share?":
-        if text in ["no", "nan", "na", "n/a", "doesn't apply", "not applicable", "im not too sure", "not at this time", "no thank you"]:
-            return "N/A", 0.0
-        if any(word in text for word in ["concern", "worry", "issue", "problem", "struggle", "challenge", "difficult", "hard", "impact", "affect", "useless", "pointless", "wasting our time", "waste of time", "cost of living", "grossly outpaced salaries"]):
+        if any(word in text for word in ["concern", "worry", "issue", "problem", "struggle", "challenge", "difficult", "hard", "impact", "affect", "useless", "pointless", "wasting our time", "waste of time", "cost of living", "grossly outpaced salaries", "inequities", "low income", "disgusting", "stress", "struggling", "no principles", "high costs of living", "low salary", "hostility", "safety", "loss of health insurance", "low enrollment" ]):
             return "NEGATIVE", score
-        elif any(word in text for word in ["positive", "good", "well", "happy", "satisfied", "help", "support", "assist", "care", "benefit", "appreciate", "glad", "look forward"]):
+        elif any(word in text for word in ["positive", "good", "well", "happy", "satisfied", "help", "support", "assist", "care", "benefit", "appreciate", "glad", "look forward", "amazed", "impressed", "appreciate", "thank you"]):
             return "POSITIVE", score
 
     # Custom rules for new questions
     elif question == "Please select the reasons for not visiting the campus food pantry.":
-        if any(word in text for word in ["don't", "not", "lack", "need", "problem", "compensation", "wages", "pay", "reevaluated", "living wage", "fair wage", "higher wage", "medical benefits"]):
+        if any(word in text for word in ["don't", "not", "lack", "need", "problem", "compensation", "wages", "pay", "reevaluated", "living wage", "fair wage", "higher wage", "medical benefits" ,"inconvenient", "eligible", "dietary needs"]):
             return "NEGATIVE", score
-        elif any(word in text for word in ["help", "support", "provide", "offer", "assist", "resource", "hope", "caring", "ready to give a helping hand"]):
+        elif any(word in text for word in ["help", "support", "provide", "offer", "assist", "resource", "hope", "caring", "ready to give a helping hand", "do not need assistance", "i do not need assistance with obtaining food and household supplies", "i visit another food pantry/food bank in my community", "i don't want other people to see me and know that i am food insecure", "other students need this help more than i do"]):
             return "POSITIVE", score
 
     elif question == "What are your thoughts about food availability on your campus?":
-        if any(word in text for word in ["concern", "worry", "issue", "problem", "struggle", "challenge", "difficult", "hard", "impact", "affect", "insufficient", "unhealthy", "limited", "expensive", "wish", "ought", "more", "less expensive", "cheaper", "low cost", "subsidized", "bad"]):
+        if any(word in text for word in ["concern", "worry", "issue", "problem", "struggle", "challenge", "difficult", "hard", "impact", "affect", "insufficient", "unhealthy", "limited", "expensive", "wish", "ought", "more", "less expensive", "cheaper", "low cost", "subsidized", "bad", "need healthy", "unhealthy", "can't pay", "can't afford", "overly priced", "terrible", "not good", "options are needed", "low quality"]):
             return "NEGATIVE", score
-        elif any(word in text for word in ["good", "great", "getting better", "improve", "improving", "affordable", "nice", "positive"]):
+        elif any(word in text for word in ["good", "great", "getting better", "improve", "improving", "affordable", "nice", "positive", "appreciate", "not bad",  "available", "delicious", "enjoy", "working on programs", "prepared well"]):
             return "POSITIVE", score
 
     elif question == "Please share why you feel unsafe?":
-        if any(word in text for word in ["concern", "worry", "issue", "problem", "struggle", "challenge", "difficult", "hard", "impact", "affect", "unsafe", "dangerous", "fear", "scared", "shootings", "crime", "violence", "abusive", "verbal abuse", "domestic violence", "vagrants", "gunfire", "shootings", "stalker", "break ins", "drugs", "homeless", "drug dealer", "property crime", "threat", "shady", "unsafe neighborhood"]):
+        if any(word in text for word in ["concern", "worry", "issue", "problem", "struggle", "challenge", "difficult", "hard", "impact", "affect", "unsafe", "dangerous", "fear", "scared", "shootings", "crime", "violence", "abusive", "verbal abuse", "domestic violence", "vagrants", "gunfire", "shootings", "stalker", "break ins", "drugs", "homeless", "drug dealer", "property crime", "threat", "shady", "unsafe neighborhood", "threat", "steal", "broke in", "scary", "unhoused", "stalk", "lacks privacy", "domestic relations", "challenging", "my dad", "my ex", "my husband", "my family"]):
             return "NEGATIVE", score
         elif any(word in text for word in ["positive", "good", "well", "happy", "satisfied", "safe", "secure", "protected"]):
             return "POSITIVE", score
