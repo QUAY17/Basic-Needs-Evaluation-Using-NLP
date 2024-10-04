@@ -179,7 +179,7 @@ def summarize_topics(topic_model, topics, texts):
     
     return topic_info, topic_summary
 
-# Function to generate a word cloud for a question
+# Function to generate a word cloud for a question, emphasizing thematic keywords
 def generate_wordcloud_from_keywords(topic_summary, column, output_dir='.', max_words=200, colormap='Blues'):
     progress_logger.info(f"Generating wordcloud for column: {column}...")
 
@@ -191,26 +191,30 @@ def generate_wordcloud_from_keywords(topic_summary, column, output_dir='.', max_
     # Initialize a dictionary to hold the final keyword frequencies
     word_freq = defaultdict(int)
 
+    # Predefined strong thematic keywords for emphasis
+    thematic_keywords = set([
+        "hungry", "hunger", "stress", "mental health", "afford", "food costs", "housing insecurity", 
+        "rent", "bills", "focus", "concentrate", "productivity", "meal skipping", "low energy", 
+        "housing stress", "unable to afford food", "worry", "anxiety"
+    ])
+
+    # Generic words to filter out
+    filter_out_keywords = set(["work", "affect", "affecting", "currently", "sometimes", "does", "no", "yes"])
+
     # Aggregate keyword frequencies across all topics related to the column
     for topic in topic_summary:
         for keyword, count in topic['KeywordCounts'].items():
             
-            # Combine "not affect" and "not affecting"
-            if "not affect" in keyword or "not affecting" in keyword:
-                word_freq["not affected"] += count
+            # Filter out generic keywords
+            if keyword in filter_out_keywords:
+                continue
             
-            # Only add bigrams or trigrams that contain "no", "yes", or "does"
-            elif keyword == "no" or keyword == "yes" or keyword == "does":
-                continue  # Skip standalone "no", "yes", and "does"
-            elif ("no" in keyword.split() or "yes" in keyword.split() or "does" in keyword.split()) and len(keyword.split()) > 1:
-                word_freq[keyword] += count  # Add only bigrams/trigrams involving "no", "yes", or "does"
+            # Prioritize thematic keywords and boost their frequency
+            if keyword in thematic_keywords:
+                word_freq[keyword] += count * 2  # Boost frequency for strong thematic keywords
             
-            # Only add bigrams that contain "not"
-            elif "not" in keyword.split() and len(keyword.split()) > 1:
-                word_freq[keyword] += count
-            
-            # Add all other keywords as they are, excluding standalone "not"
-            elif "not" not in keyword:
+            # Add all other keywords
+            else:
                 word_freq[keyword] += count
 
     # If no keywords found, skip
@@ -249,6 +253,7 @@ def generate_wordcloud_from_keywords(topic_summary, column, output_dir='.', max_
     # Return the image as base64-encoded string (for embedding in HTML) and the file path
     return img_str, output_path
 
+
 # Function to print usage instructions
 def usage():
     print("Usage: python script.py [csv_file]")
@@ -274,12 +279,12 @@ if __name__ == "__main__":
 
     # Question-to-column mapping
     question_mapping = {
-        # "How is food or housing insecurity affecting your work?": "OE1",
+        "How is food or housing insecurity affecting your work?": "OE1",
         # "What could your college or university do to address food and housing insecurity?": "OE2",
         # "Is there anything else you would like to share?": "OE3",
         # "Please select the reasons for not visiting the campus food pantry.": "Foodpantry_reasons",
         # "What are your thoughts about food availability on your campus?": "Foodavail",
-        "Please share why you feel unsafe?": "Unsafe_why",
+        # "Please share why you feel unsafe?": "Unsafe_why",
         # "Please explain why it is difficult to find housing either on-campus or off-campus?": "Housingdiff_why"
     }
 
