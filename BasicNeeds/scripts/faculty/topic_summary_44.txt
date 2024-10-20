@@ -1,0 +1,155 @@
+Question: Please share why you feel unsafe?
+
+[
+    {
+        "Topic": 0,
+        "Count": 24,
+        "Examples": [
+            "i live in a very dangerous community that is subject to violent crimes and shootings very often i am also a victim of frequent harassment in the apartment complex i live in which affects my safety",
+            "fire was damaging to structural parts of thehouse if an earthquake hit or a tornado this roofs coming down",
+            "i live in a neighborhood that was safe but now is prostitution gun shootings and my family is unsafe it was a mistake to stay at unm i could had gone somewhere better and they do not pay the faculty i need a new computer and my department and cas say that i do not i have to lend mine to my wife because of her wrist and the voultures say no they only finance 70 of what they used to do and they are just nazis",
+            "i used to live in the war zone the rent went up by 20000 dollars i witnessed a murder and needed to leave for financial and personal safety reasons i had to move in with my cousin until i could find something in my budget i still live there as i cannot afford a decent apartment so i can be asked to leave anytime and become homeless as i cannot afford an apartment",
+            "nothing to do with people but the fires made it necessary to evacuate",
+            "landlords who are bullies house has been poorly maintained and there is worry about faultydamaged electric gas plumbing lines etc",
+            "neighbors were harassing me daily and the apartment would not intervene but instead used the harassment as because to threaten eviction to me",
+            "not sure when i will not be able to pay my mortgage or gas bill",
+            "i live up next to louisiana and central not the best side of town and i have had stuff stolen from my truck and my grill stolen as well i cannot afford to get a better place the rent is so low cuz of the area i am in",
+            "frozen pipes",
+            "i was paying less and thought they will kick me out",
+            "do not have enough money must go out to earn money",
+            "there was no heat or hot water available in my home for four months",
+            "eviction for failure to pay rent",
+            "we lived in 2 rental properties that were adjacent to schizophrenic and loudly abusive neighbors that the landlords also the landlords of the mentally ill individuals did not notify us about one was also a pedophile and we have an 8yearold so we had to move",
+            "the exterior doors to my house do not have deadbolts i do not even think the doors are actually exteriorgrade doors but my landlord says it is not their responsibility to fix or upgrade they suggested i purchase locks and install them myself so i did get some of the chain ones additionally there is almost no street lighting on my block and no exterior lights on my house again i have asked my landlord to install them but got the same answer not their responsibility",
+            "our homes were flooded with sewer backup",
+            "lived where there was frequent crime even though it was considered a luxury apartment home complex where i lived car was broken into twice and garage was broken into twice",
+            "the house i rent has rodent problems the foundation is crumbling and the walls and ceiling crack sometimes chunks fall out of the ceiling there are people with substance abuse problems that frequent a house across the street and sometimes they try to get in to my houseothers in the neighborhood there is not affordable housing in silver city as far as rentals go and i cannot afford to buy a home here",
+            "forrest fire mandatory evacuation",
+            "i found black mold in every room of my apartment from flooding from the unit above mine they fixed the flooding upstairs but never once contacted me or checked on the damage beyond that there were signs that they had previously painted over mold before i moved in and it gradually grew back through the walls and ceilings i now have several severe chronic illnesses from living in that apartment for 3 years but cannot afford a lawyer i had to live out of my car for some time to escape the black mold doh did not respond to my complaint about the property that i know of",
+            "unable to pay my rent",
+            "i live in a low income trailer park",
+            "low income no family around"
+        ],
+        "Keywords": [
+            "no",
+            "live",
+            "house",
+            "afford",
+            "home",
+            "mold",
+            "lived",
+            "doors",
+            "black",
+            "broken"
+        ],
+        "KeywordCounts": {
+            "no": 12,
+            "live": 10,
+            "house": 9,
+            "afford": 7,
+            "home": 6,
+            "mold": 5,
+            "lived": 5,
+            "doors": 4,
+            "black": 3,
+            "broken": 3
+        }
+    },
+    {
+        "Topic": 1,
+        "Count": 14,
+        "Examples": [
+            "too much human traffic in my area lots of people who do not appear to live in this town",
+            "shootings and crime",
+            "south side of town",
+            "potential burglars checking gates doors and cars in my neighborhood",
+            "this albuquerque high crime high violent crime who is safe in this city",
+            "i often feel scared in abq about the random violence and the prevalence of guns and gun violence i feel even more afraid for my kids i do not feel very safe on campus either because of the violence happening all around it",
+            "the neighborhood i lived in was very edgy people coming onto my porch breaking into my backyard trying to get into my home while i was in it and ill",
+            "criminals and drug addicts in the neighborhood lack of police protection or the police never respond too much stealing from other poor folks who are just seeking to survive on stolen goods a lot of unemployed people in the neighborhood poorly constructed residential units",
+            "neighborhood",
+            "student threat to shoot me resulted in police patrols by my house",
+            "proliferation of firearms",
+            "high crime area",
+            "gun shots in my neighborhood",
+            "crime increase homeless vandalism"
+        ],
+        "Keywords": [
+            "neighborhood",
+            "crime",
+            "people",
+            "area",
+            "police",
+            "town",
+            "gun",
+            "safe",
+            "ill",
+            "often"
+        ],
+        "KeywordCounts": {
+            "neighborhood": 8,
+            "crime": 8,
+            "people": 6,
+            "area": 5,
+            "police": 4,
+            "town": 3,
+            "gun": 3,
+            "safe": 3,
+            "ill": 2,
+            "often": 2
+        }
+    },
+    {
+        "Topic": 2,
+        "Count": 9,
+        "Examples": [
+            "na",
+            "123",
+            "no",
+            "das",
+            "mm",
+            "no",
+            "no",
+            "no comments",
+            "no comment"
+        ],
+        "Keywords": [
+            "no"
+        ],
+        "KeywordCounts": {
+            "no": 12
+        }
+    },
+    {
+        "Topic": 3,
+        "Count": 8,
+        "Examples": [
+            "my husbandy",
+            "mentally unstable roommate",
+            "my husband was emotionally abusive",
+            "because my husband is a very angry man and i am afraid of him",
+            "someone in my household is not a stable person",
+            "verbal abuse and hostility",
+            "hostility from partner",
+            "spouse mental health crisis"
+        ],
+        "Keywords": [
+            "man",
+            "afraid",
+            "abuse",
+            "mentally",
+            "roommate",
+            "household",
+            "abusive"
+        ],
+        "KeywordCounts": {
+            "man": 3,
+            "afraid": 3,
+            "abuse": 3,
+            "mentally": 2,
+            "roommate": 2,
+            "household": 2,
+            "abusive": 2
+        }
+    }
+]

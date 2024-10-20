@@ -1,0 +1,663 @@
+Question: Please select the reasons for not visiting the campus food pantry.
+
+[
+    {
+        "Topic": 0,
+        "Count": 896,
+        "Examples": [
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies"
+        ],
+        "Keywords": [
+            "household",
+            "assistance",
+            "supplies",
+            "household supplies"
+        ],
+        "KeywordCounts": {
+            "household": 984,
+            "assistance": 984,
+            "supplies": 935,
+            "household supplies": 935
+        }
+    },
+    {
+        "Topic": 1,
+        "Count": 70,
+        "Examples": [
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i doother",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do",
+            "other students need this help more than i do"
+        ],
+        "Keywords": [
+            "need",
+            "students need",
+            "students",
+            "help",
+            "doother"
+        ],
+        "KeywordCounts": {
+            "need": 1155,
+            "students need": 171,
+            "students": 171,
+            "help": 171,
+            "doother": 2
+        }
+    },
+    {
+        "Topic": 2,
+        "Count": 39,
+        "Examples": [
+            "i am not sure i am eligible to use the campus food pantry",
+            "i visit another food pantryfood bank in my communityi am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry",
+            "i am not sure i am eligible to use the campus food pantry"
+        ],
+        "Keywords": [
+            "sure",
+            "use",
+            "eligible",
+            "pantry",
+            "food pantry"
+        ],
+        "KeywordCounts": {
+            "sure": 119,
+            "use": 119,
+            "eligible": 119,
+            "pantry": 83,
+            "food pantry": 83
+        }
+    },
+    {
+        "Topic": 3,
+        "Count": 30,
+        "Examples": [
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i visit another food pantryfood bank in my communityi am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i do"
+        ],
+        "Keywords": [
+            "use",
+            "sure",
+            "food pantryother",
+            "pantryother",
+            "pantryother students"
+        ],
+        "KeywordCounts": {
+            "use": 119,
+            "sure": 119,
+            "food pantryother": 60,
+            "pantryother": 60,
+            "pantryother students": 60
+        }
+    },
+    {
+        "Topic": 5,
+        "Count": 23,
+        "Examples": [
+            "i do not need assistance with obtaining food and household suppliesother",
+            "i do not need assistance with obtaining food and household suppliesother",
+            "i do not need assistance with obtaining food and household suppliesother",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household suppliesother",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household suppliesother",
+            "i do not need assistance with obtaining food and household suppliesother",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies"
+        ],
+        "Keywords": [
+            "household",
+            "need assistance",
+            "assistance",
+            "household suppliesother",
+            "suppliesother"
+        ],
+        "KeywordCounts": {
+            "household": 984,
+            "need assistance": 984,
+            "assistance": 984,
+            "household suppliesother": 29,
+            "suppliesother": 29
+        }
+    },
+    {
+        "Topic": 6,
+        "Count": 23,
+        "Examples": [
+            "i do not want other people to see me and know that i am food insecure",
+            "i do not want other people to see me and know that i am food insecure",
+            "i do not want other people to see me and know that i am food insecure",
+            "i do not want other people to see me and know that i am food insecure",
+            "i do not want other people to see me and know that i am food insecure",
+            "i do not want other people to see me and know that i am food insecure",
+            "i do not want other people to see me and know that i am food insecure",
+            "i visit another food pantryfood bank in my communityi do not want other people to see me and know that i am food insecure",
+            "i do not want other people to see me and know that i am food insecure",
+            "i do not want other people to see me and know that i am food insecure",
+            "i do not want other people to see me and know that i am food insecure",
+            "i do not want other people to see me and know that i am food insecure",
+            "i do not want other people to see me and know that i am food insecure",
+            "i do not want other people to see me and know that i am food insecure",
+            "i do not want other people to see me and know that i am food insecure",
+            "i do not want other people to see me and know that i am food insecure",
+            "i do not want other people to see me and know that i am food insecure",
+            "i do not want other people to see me and know that i am food insecure",
+            "i do not want other people to see me and know that i am food insecure",
+            "i do not want other people to see me and know that i am food insecure",
+            "i do not want other people to see me and know that i am food insecure",
+            "i do not want other people to see me and know that i am food insecure",
+            "i do not want other people to see me and know that i am food insecure"
+        ],
+        "Keywords": [
+            "people",
+            "know",
+            "want",
+            "insecure",
+            "food insecure"
+        ],
+        "KeywordCounts": {
+            "people": 71,
+            "know": 71,
+            "want": 71,
+            "insecure": 67,
+            "food insecure": 67
+        }
+    },
+    {
+        "Topic": 7,
+        "Count": 23,
+        "Examples": [
+            "i do not need assistance with obtaining food and household suppliesother students need this help more than i do",
+            "i do not need assistance with obtaining food and household suppliesother students need this help more than i do",
+            "i do not need assistance with obtaining food and household suppliesother students need this help more than i do",
+            "i do not need assistance with obtaining food and household suppliesother students need this help more than i do",
+            "i do not need assistance with obtaining food and household suppliesother students need this help more than i do",
+            "i do not need assistance with obtaining food and household suppliesthe location is inconvenientother students need this help more than i do",
+            "i do not need assistance with obtaining food and household suppliesother students need this help more than i do",
+            "i do not need assistance with obtaining food and household suppliesother students need this help more than i do",
+            "i do not need assistance with obtaining food and household suppliesother students need this help more than i do",
+            "i do not need assistance with obtaining food and household suppliesother students need this help more than i do",
+            "i do not need assistance with obtaining food and household suppliesother students need this help more than i do",
+            "the location is inconvenientother students need this help more than i do",
+            "i do not need assistance with obtaining food and household suppliesother students need this help more than i do",
+            "i do not need assistance with obtaining food and household suppliesother students need this help more than i do",
+            "i do not need assistance with obtaining food and household suppliesother students need this help more than i do",
+            "i do not need assistance with obtaining food and household suppliesother students need this help more than i do",
+            "i do not need assistance with obtaining food and household suppliesother students need this help more than i do",
+            "i do not need assistance with obtaining food and household suppliesother students need this help more than i do",
+            "i do not need assistance with obtaining food and household suppliesother students need this help more than i do",
+            "i do not need assistance with obtaining food and household suppliesother students need this help more than i do",
+            "i do not need assistance with obtaining food and household suppliesother students need this help more than i do",
+            "i do not need assistance with obtaining food and household suppliesother students need this help more than i do",
+            "i do not need assistance with obtaining food and household suppliesother students need this help more than i do"
+        ],
+        "Keywords": [
+            "students",
+            "household suppliesother",
+            "suppliesother",
+            "suppliesother students"
+        ],
+        "KeywordCounts": {
+            "students": 171,
+            "household suppliesother": 29,
+            "suppliesother": 29,
+            "suppliesother students": 23
+        }
+    },
+    {
+        "Topic": 8,
+        "Count": 22,
+        "Examples": [
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies",
+            "i do not need assistance with obtaining food and household supplies"
+        ],
+        "Keywords": [
+            "need assistance",
+            "household",
+            "assistance",
+            "supplies",
+            "household supplies"
+        ],
+        "KeywordCounts": {
+            "need assistance": 984,
+            "household": 984,
+            "assistance": 984,
+            "supplies": 935,
+            "household supplies": 935
+        }
+    },
+    {
+        "Topic": 9,
+        "Count": 17,
+        "Examples": [
+            "the items available at the campus food pantry do not align with my dietary needs vegetarian vegan halal kosher etcother students need this help more than i doi do not want other people to see me and know that i am food insecure",
+            "the hours of operation for the campus food pantry do not work for methe items available at the campus food pantry do not align with my dietary needs vegetarian vegan halal kosher etc",
+            "i do not like the selection offered by the campus food pantry",
+            "i do not like the selection offered by the campus food pantrythe items available at the campus food pantry do not align with my dietary needs vegetarian vegan halal kosher etc",
+            "the items available at the campus food pantry do not align with my dietary needs vegetarian vegan halal kosher etc",
+            "the items available at the campus food pantry do not align with my dietary needs vegetarian vegan halal kosher etc",
+            "i visit another food pantryfood bank in my communitythe items available at the campus food pantry do not align with my dietary needs vegetarian vegan halal kosher etc",
+            "the items available at the campus food pantry do not align with my dietary needs vegetarian vegan halal kosher etci am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i do not like the selection offered by the campus food pantry",
+            "the items available at the campus food pantry do not align with my dietary needs vegetarian vegan halal kosher etc",
+            "the items available at the campus food pantry do not align with my dietary needs vegetarian vegan halal kosher etci am not sure i am eligible to use the campus food pantryother students need this help more than i doi do not want other people to see me and know that i am food insecure",
+            "i do not need assistance with obtaining food and household suppliesthe items available at the campus food pantry do not align with my dietary needs vegetarian vegan halal kosher etci am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "the items available at the campus food pantry do not align with my dietary needs vegetarian vegan halal kosher etci am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "the location is inconvenienti do not like the selection offered by the campus food pantrythe items available at the campus food pantry do not align with my dietary needs vegetarian vegan halal kosher etci am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i visit another food pantryfood bank in my communitythe items available at the campus food pantry do not align with my dietary needs vegetarian vegan halal kosher etc",
+            "i visit another food pantryfood bank in my communitythe items available at the campus food pantry do not align with my dietary needs vegetarian vegan halal kosher etc",
+            "the items available at the campus food pantry do not align with my dietary needs vegetarian vegan halal kosher etcother students need this help more than i doi do not want other people to see me and know that i am food insecure"
+        ],
+        "Keywords": [
+            "food",
+            "campus",
+            "campus food",
+            "pantry",
+            "food pantry",
+            "like",
+            "selection"
+        ],
+        "KeywordCounts": {
+            "food": 1224,
+            "campus": 157,
+            "campus food": 157,
+            "pantry": 83,
+            "food pantry": 83,
+            "like": 7,
+            "selection": 7
+        }
+    },
+    {
+        "Topic": 10,
+        "Count": 17,
+        "Examples": [
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i doi do not want other people to see me and know that i am food insecure",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i doi do not want other people to see me and know that i am food insecure",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i doi do not want other people to see me and know that i am food insecureother",
+            "i visit another food pantryfood bank in my communityi am not sure i am eligible to use the campus food pantryother students need this help more than i doi do not want other people to see me and know that i am food insecure",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i doi do not want other people to see me and know that i am food insecureother",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i doi do not want other people to see me and know that i am food insecure",
+            "i do not like the selection offered by the campus food pantryi am not sure i am eligible to use the campus food pantryother students need this help more than i doi do not want other people to see me and know that i am food insecure",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i doi do not want other people to see me and know that i am food insecure",
+            "i do not need assistance with obtaining food and household suppliesi am not sure i am eligible to use the campus food pantryother students need this help more than i doi do not want other people to see me and know that i am food insecure",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i doi do not want other people to see me and know that i am food insecure",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i doi do not want other people to see me and know that i am food insecure",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i doi do not want other people to see me and know that i am food insecure",
+            "i do not need assistance with obtaining food and household suppliesi do not like the selection offered by the campus food pantryi am not sure i am eligible to use the campus food pantryother students need this help more than i doi do not want other people to see me and know that i am food insecure",
+            "the hours of operation for the campus food pantry do not work for mei am not sure i am eligible to use the campus food pantryother students need this help more than i doi do not want other people to see me and know that i am food insecure",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i doi do not want other people to see me and know that i am food insecure",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i doi do not want other people to see me and know that i am food insecure",
+            "i am not sure i am eligible to use the campus food pantryother students need this help more than i doi do not want other people to see me and know that i am food insecure"
+        ],
+        "Keywords": [
+            "food pantryother",
+            "doi"
+        ],
+        "KeywordCounts": {
+            "food pantryother": 60,
+            "doi": 36
+        }
+    },
+    {
+        "Topic": 12,
+        "Count": 15,
+        "Examples": [
+            "the location is inconvenientother",
+            "the location is inconvenient",
+            "the location is inconvenient",
+            "the location is inconvenient",
+            "the location is inconvenient",
+            "the location is inconvenient",
+            "the location is inconvenient",
+            "the location is inconvenient",
+            "the location is inconvenient",
+            "the location is inconvenient",
+            "the location is inconvenientother",
+            "the location is inconvenient",
+            "the location is inconvenient",
+            "the location is inconvenient",
+            "the location is inconvenient"
+        ],
+        "Keywords": [
+            "location",
+            "inconvenientother"
+        ],
+        "KeywordCounts": {
+            "location": 25,
+            "inconvenientother": 4
+        }
+    },
+    {
+        "Topic": 13,
+        "Count": 14,
+        "Examples": [
+            "i do not need assistance with obtaining food and household suppliesi am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i do not need assistance with obtaining food and household suppliesi am not sure i am eligible to use the campus food pantry",
+            "i do not need assistance with obtaining food and household suppliesi am not sure i am eligible to use the campus food pantry",
+            "i do not need assistance with obtaining food and household suppliesi am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i do not need assistance with obtaining food and household suppliesi am not sure i am eligible to use the campus food pantry",
+            "i do not need assistance with obtaining food and household suppliesthe location is inconvenienti am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i do not need assistance with obtaining food and household suppliesi am not sure i am eligible to use the campus food pantryother students need this help more than i doother",
+            "i do not need assistance with obtaining food and household suppliesi am not sure i am eligible to use the campus food pantry",
+            "i do not need assistance with obtaining food and household suppliesi am not sure i am eligible to use the campus food pantry",
+            "i do not need assistance with obtaining food and household suppliesi am not sure i am eligible to use the campus food pantry",
+            "i do not need assistance with obtaining food and household suppliesi do not like the selection offered by the campus food pantry",
+            "i do not need assistance with obtaining food and household suppliesi am not sure i am eligible to use the campus food pantry",
+            "i do not need assistance with obtaining food and household suppliesi am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "i do not need assistance with obtaining food and household suppliesi am not sure i am eligible to use the campus food pantryother students need this help more than i do"
+        ],
+        "Keywords": [
+            "eligible",
+            "use",
+            "household suppliesi",
+            "suppliesi"
+        ],
+        "KeywordCounts": {
+            "eligible": 119,
+            "use": 119,
+            "household suppliesi": 17,
+            "suppliesi": 17
+        }
+    },
+    {
+        "Topic": 14,
+        "Count": 13,
+        "Examples": [
+            "other students need this help more than i doi do not want other people to see me and know that i am food insecure",
+            "other students need this help more than i doi do not want other people to see me and know that i am food insecure",
+            "other students need this help more than i doi do not want other people to see me and know that i am food insecure",
+            "other students need this help more than i doi do not want other people to see me and know that i am food insecure",
+            "other students need this help more than i doi do not want other people to see me and know that i am food insecure",
+            "other students need this help more than i doi do not want other people to see me and know that i am food insecure",
+            "other students need this help more than i doi do not want other people to see me and know that i am food insecure",
+            "other students need this help more than i doi do not want other people to see me and know that i am food insecureother",
+            "other students need this help more than i doi do not want other people to see me and know that i am food insecure",
+            "other students need this help more than i doi do not want other people to see me and know that i am food insecure",
+            "other students need this help more than i doi do not want other people to see me and know that i am food insecure",
+            "other students need this help more than i doi do not want other people to see me and know that i am food insecure",
+            "other students need this help more than i doi do not want other people to see me and know that i am food insecure"
+        ],
+        "Keywords": [
+            "people",
+            "doi"
+        ],
+        "KeywordCounts": {
+            "people": 71,
+            "doi": 36
+        }
+    },
+    {
+        "Topic": 15,
+        "Count": 10,
+        "Examples": [
+            "the hours of operation for the campus food pantry do not work for mei am not sure i am eligible to use the campus food pantryi do not want other people to see me and know that i am food insecure",
+            "the hours of operation for the campus food pantry do not work for mei am not sure i am eligible to use the campus food pantry",
+            "the hours of operation for the campus food pantry do not work for me",
+            "the hours of operation for the campus food pantry do not work for mei am not sure i am eligible to use the campus food pantry",
+            "the hours of operation for the campus food pantry do not work for mei am not sure i am eligible to use the campus food pantryother students need this help more than i do",
+            "the hours of operation for the campus food pantry do not work for me",
+            "the hours of operation for the campus food pantry do not work for me",
+            "the hours of operation for the campus food pantry do not work for me",
+            "the hours of operation for the campus food pantry do not work for meother students need this help more than i do",
+            "the hours of operation for the campus food pantry do not work for me"
+        ],
+        "Keywords": [
+            "hours",
+            "work",
+            "operation"
+        ],
+        "KeywordCounts": {
+            "hours": 16,
+            "work": 16,
+            "operation": 16
+        }
+    },
+    {
+        "Topic": 16,
+        "Count": 9,
+        "Examples": [
+            "the location is inconvenienti visit another food pantryfood bank in my community",
+            "i visit another food pantryfood bank in my community",
+            "i visit another food pantryfood bank in my community",
+            "the location is inconvenientthe hours of operation for the campus food pantry do not work for me",
+            "the location is inconvenientthe hours of operation for the campus food pantry do not work for mei am not sure i am eligible to use the campus food pantryother students need this help more than i doi do not want other people to see me and know that i am food insecure",
+            "the location is inconvenientthe hours of operation for the campus food pantry do not work for mei am not sure i am eligible to use the campus food pantryi do not want other people to see me and know that i am food insecure",
+            "the location is inconvenienti am not sure i am eligible to use the campus food pantry",
+            "i visit another food pantryfood bank in my community",
+            "the location is inconvenienti visit another food pantryfood bank in my community"
+        ],
+        "Keywords": [
+            "location",
+            "bank",
+            "visit",
+            "pantryfood bank",
+            "pantryfood",
+            "food pantryfood",
+            "inconvenienti"
+        ],
+        "KeywordCounts": {
+            "location": 25,
+            "bank": 12,
+            "visit": 12,
+            "pantryfood bank": 12,
+            "pantryfood": 12,
+            "food pantryfood": 12,
+            "inconvenienti": 5
+        }
+    },
+    {
+        "Topic": 17,
+        "Count": 8,
+        "Examples": [
+            "i am not sure i am eligible to use the campus food pantryi do not want other people to see me and know that i am food insecure",
+            "i am not sure i am eligible to use the campus food pantryi do not want other people to see me and know that i am food insecure",
+            "i am not sure i am eligible to use the campus food pantryi do not want other people to see me and know that i am food insecure",
+            "i am not sure i am eligible to use the campus food pantryi do not want other people to see me and know that i am food insecure",
+            "i am not sure i am eligible to use the campus food pantryi do not want other people to see me and know that i am food insecure",
+            "i do not need assistance with obtaining food and household suppliesi am not sure i am eligible to use the campus food pantryi do not want other people to see me and know that i am food insecure",
+            "i am not sure i am eligible to use the campus food pantryi do not want other people to see me and know that i am food insecureother",
+            "i am not sure i am eligible to use the campus food pantryi do not want other people to see me and know that i am food insecure"
+        ],
+        "Keywords": [
+            "know",
+            "food pantryi",
+            "pantryi"
+        ],
+        "KeywordCounts": {
+            "know": 71,
+            "food pantryi": 12,
+            "pantryi": 12
+        }
+    }
+]

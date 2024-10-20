@@ -1,0 +1,301 @@
+Question: Is there anything else you would like to share?
+
+[
+    {
+        "Topic": 0,
+        "Count": 256,
+        "Examples": [
+            "bring back the pebt for those receiving free lunches at school working families make too much to qualify for snap but the pebt no matter how much was a huge help",
+            "nm has poor economic opportunities and low low wages there is extreme and obvious gender differences in wages eg my supervisor makes over 200000 annually i make 60k even the office staff make more than i do these inequities in pay based on nepotism and favoritism vs merit and experience are ubiquitous throughout nm and the housing situation here is full of inequities housing unavailable and landlords get away with unbelievable abuses plus airbnb makes it impossible to find housing nm does not give a damn about the ordinary person or we would not be worst in the entire nation for child welfare and child education",
+            "aqu\u00e3 solo los estudiantes tienen acceso a l banco de comida",
+            "i would hope new mexicos government will consider help provide equitable resources to low income and rural areas we are often neglected food and housing insecurity leads to higher rates of dropouts and class failures",
+            "it is disgusting that one of the richest countries in the world has students trying to get a good education and going hungry",
+            "i am amazed and impressed with daccs attention and care of the basic daily needs of students and the amount of resources available to help them succeed beyond just education",
+            "at this particular juncture our college is looking at a closure beyond this survey we need assistance to stay open in order to provide students with the quality education they have come here to receive and to help provide stability to our community",
+            "the cost of living has grossly outpaced salaries",
+            "the campus has many free food activities and i greatly appreciate that",
+            "i live with my 93 year old mother and do not pay rent but if i did this survey may take on another meaning",
+            "there would not be any problems with food or housing if the government gave a damn about the people and just not themselves",
+            "there seems to be helpf or the very poor however in my situation i have been employed for 30 years and am financial responsible for myself but have many stuggles yet there is no assistance for me because it appears that i make to much",
+            "i am saddened that this survey seemed necessary we can and should take better care of each other peace",
+            "the school needs a transportation system either trams or buses this is such a spread out rural community that it could really help people who need rides or who want to access education but have no way to come in person online is not always a fit for everyone",
+            "thank you for doing this survey",
+            "many of the students attending nmhu are on very limited income housing and or food security some have to choose between working or remaining in school to support themselves and or their family",
+            "thanks for creating this survey hope it provides a better outlook on the issue",
+            "clovis community college is a dump they borderline steal from student with their ridiculous textbook rental scheme gouge the fees so that the price here is nearly as high as enmu and do not drop students for nonpayment despite telling them that they do leading to students not knowing they are still enrolled in their courses so they fail them i do not know how we keep our accreditation and i cannot wait to quit this job it will take me a decade to financially and professionally recover from the two years i have spent here luckily my husband has orders outofstate so this nightmare is almost over i do not know how my coworkers most of whom are hourly workers survive",
+            "navajo nation needs more housing for families and as well as single people si gle people should not be left out because they do not have kids kids are a big responsibility and some people want to want but the art turned away because they have no kids",
+            "i feel that universities focus on students only however they are not the only ones struggling people who work full time can still be struggling and trying to find ways to stay above water while taking care of their own bills and responsibilities to others",
+            "we need all the support we can get",
+            "rising costs of food are putting a strain on my budget even though i am not food or housing insecure rising costs of medical insurance are the same way although i have some extra money to spend on leisure that percentage is going down significantly in recent months my hh members and i have discussed getting chickens and growing food plants to help defray the costs of food",
+            "assistance with food home and care would help",
+            "although i have reached a place wherein i am secure of my housing and food it was not always that way in my life i realize i am fortunate in that working hard and being frugal paid off and that good habits often do not pay off for everyone in a similar way i have not forgotten how it felt to be homeless have no money and be truly insecure of my basic needs being met i am not sure anyone could truly get over it",
+            "the food pantry here at northern should also be open to college employees stafffaculty and not only students",
+            "we help people too much and they do not learn to stand on their own two feet and just get their act together",
+            "good to know more about how to help those who need these types of help",
+            "thank you for the survey",
+            "the 40hour work week is antiquated and assumes that all fulltime employees have a partner at home handling housework shopping childcare and food preparation todays world does not support this even those who have partners often see both members of the pair working in order to survive we legitimately do not have time",
+            "i have two adult children living with me over 18 because housing and food is very expensive they are both still in college and i am helping them through it all as a single parent",
+            "departments should not require staff to participate in potlucks i cannot afford to make that much extra food for coworkers and i also do not want to eat my coworkers cooking",
+            "we make decent money but the amount that is taken out is too much",
+            "i have worked at my place of employment for 18 years and am looking for a second job due to the pay i would rather never sleep than lose everything i have worked for",
+            "the uncertainty of rent and utilities going up has me concerned and the ability for my position to keep pace with inflation worries me if i can continue to work here",
+            "i think all staff should be making at least 20 dollars an hour i had to move because we could not afford to pay rent i work a full time job",
+            "thank you for looking into this issue it affects all members of out community directly and indirectly even those like me who are not currently experiencing food insecurity and housing uncertainty",
+            "international district needs help",
+            "need better pay with this rising inflation",
+            "very high rent price andor finding secure unit for lowincome person i have to pay more than 23 of my monthly income for the rent",
+            "while i have had reliable housing in the last year i have seen my brother and his family homeless twice in the last 3 years and recently helped them move when they were evicted it is a heavy weight to carry even if it is not you that is being evicted",
+            "espanola is under researched there is a stigma towards this community from legislatures educated groups outside states we are struggling we need rehab centers and initiatives to help the addictedsick youth young families and the elderly espanola is becoming a 3rd world country please have some sympathy andor empathy for the people here please work with hector balderas and our young mayor who are the only ones who are willing to advocate for us here also espanola is a broad home term that defines anyone who lives north of santa fe or in north central new mexico",
+            "i really appreciate the food pantry on campus and the kindness of the employees overall many events encourage others to take leftovers",
+            "cost of living is remarkably high salaries remarkably do not compensate those with mental health issues are not free to discuss their concerns",
+            "thanks for the opportunity to provide input by administering this survey",
+            "please help educators",
+            "no thank you for putting this survey together",
+            "i just wish everything was not so expensive i am very grateful for the nm opp sch but wish i did not pay so much in taxes considering i do not depend on the government",
+            "it would be nice if there was some kind of sign up list for excess food from events like college day or conferences or meetings where there is excess food and this food could be disseminated to other staff members rather than throwing away it would be nice if every campus had a craft services and or food pantry free of charge",
+            "i have been in nm for a little over a year coming from a staunchly republican state to here has been a wonderful improvement to my overall wellbeing due to the diverse supports and resources available in this state",
+            "it would be nice of cnm had better healthy food options on campus that are more reliable and consistent"
+        ],
+        "Keywords": [
+            "thank",
+            "need",
+            "time",
+            "think",
+            "good",
+            "really",
+            "needed",
+            "life",
+            "thanks",
+            "security"
+        ],
+        "KeywordCounts": {
+            "thank": 42,
+            "need": 33,
+            "time": 28,
+            "think": 19,
+            "good": 15,
+            "really": 12,
+            "needed": 10,
+            "life": 9,
+            "thanks": 7,
+            "security": 6
+        }
+    },
+    {
+        "Topic": 1,
+        "Count": 172,
+        "Examples": [
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "nope",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "nope",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "have not",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no"
+        ],
+        "Keywords": [
+            "no",
+            "good",
+            "life",
+            "nope"
+        ],
+        "KeywordCounts": {
+            "no": 205,
+            "good": 15,
+            "life": 9,
+            "nope": 6
+        }
+    },
+    {
+        "Topic": 2,
+        "Count": 18,
+        "Examples": [
+            "not at this time",
+            "nothing at this time",
+            "not at this time",
+            "no at this time",
+            "not at this time",
+            "not at this time",
+            "not at this time",
+            "not at this time",
+            "not at this time",
+            "not at this time",
+            "not at this time",
+            "not at the moment",
+            "not at this time",
+            "not at this time",
+            "not at the moment",
+            "not at the moment",
+            "not at this time",
+            "not at the moment sorry"
+        ],
+        "Keywords": [
+            "no",
+            "time",
+            "nothing"
+        ],
+        "KeywordCounts": {
+            "no": 205,
+            "time": 28,
+            "nothing": 4
+        }
+    },
+    {
+        "Topic": 4,
+        "Count": 12,
+        "Examples": [
+            "no thank you",
+            "no thanks",
+            "no thank you",
+            "no thank you",
+            "no thank you",
+            "no thanks",
+            "no thank you",
+            "no thank you",
+            "no thank you",
+            "no thank you",
+            "no thank you ery much",
+            "no thank you"
+        ],
+        "Keywords": [
+            "no",
+            "thank",
+            "no thank",
+            "thanks"
+        ],
+        "KeywordCounts": {
+            "no": 205,
+            "thank": 42,
+            "no thank": 12,
+            "thanks": 7
+        }
+    },
+    {
+        "Topic": 5,
+        "Count": 10,
+        "Examples": [
+            "not really",
+            "i have it good compared to so many other i see",
+            "not really",
+            "what do i have in mind",
+            "not applicable",
+            "i cannot think of anything else to share",
+            "i said what i needed to say",
+            "not really",
+            "nothing else",
+            "i do not have anything else to say"
+        ],
+        "Keywords": [
+            "think",
+            "good",
+            "really",
+            "needed",
+            "nothing",
+            "say",
+            "share",
+            "said",
+            "compared"
+        ],
+        "KeywordCounts": {
+            "think": 19,
+            "good": 15,
+            "really": 12,
+            "needed": 10,
+            "nothing": 4,
+            "say": 3,
+            "share": 3,
+            "said": 2,
+            "compared": 2
+        }
+    },
+    {
+        "Topic": 6,
+        "Count": 9,
+        "Examples": [
+            "na",
+            "ni",
+            "na",
+            "might need more security",
+            "na",
+            "na",
+            "na",
+            "na",
+            "ninguna"
+        ],
+        "Keywords": [
+            "need",
+            "security"
+        ],
+        "KeywordCounts": {
+            "need": 33,
+            "security": 6
+        }
+    },
+    {
+        "Topic": 7,
+        "Count": 8,
+        "Examples": [
+            "",
+            "",
+            "thank you",
+            "thank you",
+            "thank you",
+            "thank you",
+            "thank you",
+            "thanks for asking"
+        ],
+        "Keywords": [
+            "thank",
+            "thanks",
+            "asking"
+        ],
+        "KeywordCounts": {
+            "thank": 42,
+            "thanks": 7,
+            "asking": 4
+        }
+    }
+]
