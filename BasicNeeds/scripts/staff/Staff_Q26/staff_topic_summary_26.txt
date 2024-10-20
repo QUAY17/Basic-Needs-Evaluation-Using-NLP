@@ -1,0 +1,545 @@
+Question: There are many reasons why people are food insecure. Please share an obstacle (or two) that affects your ability to access healthy food.
+
+[
+    {
+        "Topic": 0,
+        "Count": 723,
+        "Examples": [
+            "lack of healthy fast options",
+            "none at this time however there have been times in my life when i did not eat so my child could as there was a limited amount of food and money available",
+            "it\u00e2s not that i don\u00e2t have enough money to buy food but i don\u00e2t always prioritize it and end up buying cheaper or more convenient premade items to save time and money even though they\u00e2re not as healthy",
+            "the primary obstacle is that healthy food is typically more expensive than unhealthy food",
+            "rural setting healthy food options are not great and what we do have is so expensive",
+            "price limited locations to purchase healthy foods",
+            "costs of everything going up natural gas alone last month doubled in las cruces gas foe the vehicle is more expensive prices of groceries are outrageous i am middle class snd make decent money but outstanding debt makes it hard to prioritize",
+            "paying for insurances medical and auto commuting costs underemployment being underpaid when employed difficulty finding employment because of age",
+            "cost of food is so expensive right now what i used to buy in regular groceries is now doubled if not more in price",
+            "i do not make enough money from working after paying my rent i need a roof over my head and heating",
+            "cost overall the thing that are not that good for you are more cost effective",
+            "living paycheck to paycheck",
+            "food costs",
+            "the location of tucumcari prevents me from access to affordable food limited locations within town to choose from",
+            "price of non processed food is higher",
+            "i do not make enough money to cover my bills and food as well",
+            "my location tucumcari nm has limited food availability especially fruits and vegetables",
+            "only person working in household",
+            "the prices are going up and i do not earn enough to afford",
+            "healthy food is more expensive than unhealthy food so it is easier and cheaper to buy processed food",
+            "only one grocery store in town that does not always have what we want for food or its over priced",
+            "the price of basic food has gone up significantly milk eggs chicken etc",
+            "the cost of fooditems needed to cook a full meal are very expensive food stamps do not cover the high costs",
+            "credit card debt lower paying job",
+            "unfortunately my income is too much to qualify for assistance though it\u00e2s a struggle most months to purchase food",
+            "the prices of the healthy food items",
+            "food costs",
+            "high rent and low salary",
+            "low pay and the rise of living costs",
+            "cost of food money needs to be elsewhere bills daycare expenses etc",
+            "healthy food is more expensive cannot get as much as other items that are less healthy",
+            "healthy food is often more expensive than non healthy food healthy food needs to be bought in greater quantity in order to satisfy most peoples appetite",
+            "the economic cost of living has changed in the past two years due to inflation and food insecurities is just a small part of the economics of it all",
+            "purchasing healthy food takes more time for example having to look at the carbohydrates and calories is time consuming and grocery shopping is time consuming i do this on weekends as well as all my house chores",
+            "not having enough time to make a well balanced meal",
+            "i struggle with add depression and anxiety even when i have food it is hard to have energy to prepare it and eat it",
+            "healthy food is more expensive",
+            "too costly hubby has diabetes",
+            "i fall in the middle donut hole\u00e2i make too much money to qualify for assistance when i need it and with unforeseen expenses money began to run out quickly then everything got expensive and things are just hard sometimes i do not eat because i do not want to eat junk or because i am too tired to prepare something",
+            "not having the means to go buy healthy food for us we do not live in the city",
+            "i just got this job was making less",
+            "transportation no money",
+            "i do not drive because of health reasons and the shuttle only operates mf 8am430pm i also do not get paid enough to meet all my bills",
+            "locality of stores to get quality food",
+            "too expensive especially organic veggies nuts dairy etc",
+            "las vegas can be a food desert not enough fresh food and way too much processed food",
+            "lack of time and funds to secure fresh fruits and vegetables",
+            "local food desert few actual grocery stores near my neighborhood",
+            "live in a food desert most of the year and lack of healthy foods in stores near me",
+            "i live in a food desert so healthy food in not always available and when it is it is not very affordable"
+        ],
+        "Keywords": [
+            "food",
+            "cost",
+            "expensive",
+            "money",
+            "time",
+            "prices",
+            "high",
+            "costs",
+            "income",
+            "work"
+        ],
+        "KeywordCounts": {
+            "food": 495,
+            "cost": 175,
+            "expensive": 141,
+            "money": 110,
+            "time": 89,
+            "prices": 89,
+            "high": 78,
+            "costs": 45,
+            "income": 45,
+            "work": 37
+        }
+    },
+    {
+        "Topic": 1,
+        "Count": 32,
+        "Examples": [
+            "financial obstacle",
+            "not enough of an income",
+            "not enough money",
+            "they are human",
+            "some people do not want to work and are lazy",
+            "not enough resources",
+            "most people have poor money management and priorities",
+            "income",
+            "there may be a time conflict",
+            "the economy does not allow",
+            "financial",
+            "just is not convenient",
+            "income",
+            "financial situation",
+            "no reasons",
+            "spoils frequently",
+            "lack of money and size of family",
+            "finance availability",
+            "because of lack of money",
+            "mental health issues",
+            "basic finances",
+            "no money",
+            "divorce",
+            "lack of financial situation and government prolonged",
+            "not enough food and access to capital",
+            "convenience",
+            "there is not enough money",
+            "have no money",
+            "due to lack of sufficient money",
+            "finances",
+            "laziness",
+            "financial reasons"
+        ],
+        "Keywords": [
+            "money",
+            "income",
+            "lack",
+            "people",
+            "financial",
+            "finances",
+            "reasons",
+            "no money",
+            "situation"
+        ],
+        "KeywordCounts": {
+            "money": 110,
+            "income": 45,
+            "lack": 26,
+            "people": 18,
+            "financial": 8,
+            "finances": 6,
+            "reasons": 5,
+            "no money": 4,
+            "situation": 4
+        }
+    },
+    {
+        "Topic": 2,
+        "Count": 24,
+        "Examples": [
+            "money",
+            "money time",
+            "money and resources",
+            "money",
+            "time and will power",
+            "money",
+            "money time",
+            "money",
+            "money",
+            "education and money",
+            "money",
+            "money",
+            "time",
+            "time",
+            "sometimes it is just a matter of there is more month than money",
+            "money",
+            "money is not always there",
+            "money",
+            "money",
+            "money",
+            "money",
+            "money",
+            "money",
+            "moneey"
+        ],
+        "Keywords": [
+            "money",
+            "time",
+            "resources",
+            "education",
+            "power"
+        ],
+        "KeywordCounts": {
+            "money": 110,
+            "time": 89,
+            "resources": 4,
+            "education": 3,
+            "power": 2
+        }
+    },
+    {
+        "Topic": 3,
+        "Count": 21,
+        "Examples": [
+            "none",
+            "none",
+            "laziness none",
+            "none",
+            "none",
+            "none",
+            "none",
+            "none",
+            "none",
+            "none",
+            "i do not have any right now i just dodged that bullet after the pandemic started",
+            "none",
+            "none for me",
+            "none at the moment",
+            "none",
+            "there are none",
+            "none",
+            "none",
+            "none",
+            "0",
+            "none for my home"
+        ],
+        "Keywords": [
+            "just",
+            "home",
+            "any",
+            "pandemic",
+            "right",
+            "moment",
+            "laziness"
+        ],
+        "KeywordCounts": {
+            "just": 24,
+            "home": 19,
+            "any": 17,
+            "pandemic": 9,
+            "right": 8,
+            "moment": 3,
+            "laziness": 2
+        }
+    },
+    {
+        "Topic": 4,
+        "Count": 19,
+        "Examples": [
+            "inflation brought on by the current administration",
+            "rise of inflation",
+            "right now it is mostly due to inflation",
+            "inflation",
+            "inflation",
+            "moneyinflation",
+            "inflation",
+            "inflation",
+            "inflation",
+            "inflation life is expensive",
+            "inflation",
+            "inflation and the increased prices of everything",
+            "inflation",
+            "cost inflation",
+            "inflation",
+            "inflation",
+            "inflation",
+            "inflation",
+            "inflation over the past year has been a challenge"
+        ],
+        "Keywords": [
+            "inflation",
+            "right",
+            "past",
+            "year",
+            "current",
+            "past year",
+            "challenge",
+            "inflation cost",
+            "increased prices"
+        ],
+        "KeywordCounts": {
+            "inflation": 58,
+            "right": 8,
+            "past": 8,
+            "year": 7,
+            "current": 7,
+            "past year": 3,
+            "challenge": 3,
+            "inflation cost": 3,
+            "increased prices": 2
+        }
+    },
+    {
+        "Topic": 5,
+        "Count": 17,
+        "Examples": [
+            "cost",
+            "location cost at times",
+            "cost",
+            "cost",
+            "distance costs",
+            "cost",
+            "cost",
+            "cost",
+            "cost",
+            "cost",
+            "cost",
+            "cost",
+            "cost",
+            "cost",
+            "cost",
+            "cost",
+            "price"
+        ],
+        "Keywords": [
+            "cost",
+            "price",
+            "costs",
+            "times",
+            "location",
+            "distance"
+        ],
+        "KeywordCounts": {
+            "cost": 175,
+            "price": 53,
+            "costs": 45,
+            "times": 16,
+            "location": 12,
+            "distance": 8
+        }
+    },
+    {
+        "Topic": 6,
+        "Count": 15,
+        "Examples": [
+            "too damn expensive",
+            "pricey",
+            "it is expensive",
+            "too expensive",
+            "cost is too high",
+            "too expensive",
+            "not affordable",
+            "too expensive for the little that you get",
+            "it is unavailable or too expensive",
+            "too expensive and too far away",
+            "too expensive",
+            "can\u00e2t afford",
+            "to expensive",
+            "the price is too high",
+            "not enough money too expensive"
+        ],
+        "Keywords": [
+            "expensive",
+            "little",
+            "far away",
+            "unavailable"
+        ],
+        "KeywordCounts": {
+            "expensive": 141,
+            "little": 6,
+            "far away": 3,
+            "unavailable": 2
+        }
+    },
+    {
+        "Topic": 7,
+        "Count": 14,
+        "Examples": [
+            "the cost",
+            "prices",
+            "prices",
+            "price",
+            "price",
+            "prices",
+            "price",
+            "price",
+            "price and location",
+            "the price",
+            "prices",
+            "prices",
+            "price and salary",
+            "prices"
+        ],
+        "Keywords": [
+            "cost",
+            "prices",
+            "price",
+            "salary",
+            "location"
+        ],
+        "KeywordCounts": {
+            "cost": 175,
+            "prices": 89,
+            "price": 53,
+            "salary": 29,
+            "location": 12
+        }
+    },
+    {
+        "Topic": 8,
+        "Count": 11,
+        "Examples": [
+            "el costo es mas alto",
+            "todo esta muy caro",
+            "gasolina aseguranzas precios m\u00e3s altos en todo",
+            "por no tener suficiente dinero por lo alto que est\u00e3 los costos de viles y la comida aveses tambi\u00e3n los orarios de trabajo no podemos asistir para obtener alguna ayuda para completar m\u00e3s la canasta b\u00e3sica",
+            "por falta monetaria",
+            "les gusta la comida chatarra y por esa raz\u00e3\u00b3n no quieren cambiar sus h\u00e3bitos alimenticios llevan mucho a\u00e3os adaptados a un estilo de vida que no quieren modificar",
+            "en la actualidad el dinero no es suficiente y la gasolina es parte de mis gastos sin contar gastos medicos casa mensualidad de mi carro aseguranza utilidades y el pago del mortgage de mi casa todos estos gastos son mensuales me encantaria poder darle la mejor alimentacion a my familia pero me es imposible yo he dejado de comer suficiente para que mi familia se alimente mejor",
+            "mi orario de trbajo mi orario de trabajo",
+            "no me alcansa el sueldo",
+            "los alimentos estan muy altos en precio una ida al supermercado son mas 300 dolares con lo que se gana no se ouede vivir se necesita tener tres trabajos y nunca se tiene tiempo para estar con los hijos la vida en santa fe es muy cara pienso que el sueldo en el area de custodian es muy bajo deberian cosiderar un aumento",
+            "el dinero de mi cheque de pago no es suficiente"
+        ],
+        "Keywords": [
+            "no",
+            "area",
+            "los",
+            "santa",
+            "mortgage",
+            "fe",
+            "santa fe"
+        ],
+        "KeywordCounts": {
+            "no": 49,
+            "area": 14,
+            "los": 5,
+            "santa": 3,
+            "mortgage": 3,
+            "fe": 3,
+            "santa fe": 3
+        }
+    },
+    {
+        "Topic": 9,
+        "Count": 11,
+        "Examples": [
+            "no obstacles",
+            "no obstacle",
+            "na i have no obstacles",
+            "i do not have any obstacles",
+            "just getting out to get it",
+            "i do not face these obstacles",
+            "i have easy access",
+            "no obstacles",
+            "no obstacles to face",
+            "i dont have any obstacles",
+            "ease of access"
+        ],
+        "Keywords": [
+            "no",
+            "access",
+            "any",
+            "obstacles",
+            "getting",
+            "no obstacles",
+            "any obstacles",
+            "easy",
+            "ease"
+        ],
+        "KeywordCounts": {
+            "no": 49,
+            "access": 36,
+            "any": 17,
+            "obstacles": 13,
+            "getting": 8,
+            "no obstacles": 6,
+            "any obstacles": 4,
+            "easy": 4,
+            "ease": 2
+        }
+    },
+    {
+        "Topic": 10,
+        "Count": 10,
+        "Examples": [
+            "high prices",
+            "high prices",
+            "high prices",
+            "high prices",
+            "price is to high",
+            "high prices",
+            "good is so expensive",
+            "high price of good",
+            "price is high",
+            "high cost"
+        ],
+        "Keywords": [
+            "prices",
+            "high",
+            "price",
+            "good",
+            "high prices",
+            "high cost"
+        ],
+        "KeywordCounts": {
+            "prices": 89,
+            "high": 78,
+            "price": 53,
+            "good": 27,
+            "high prices": 9,
+            "high cost": 9
+        }
+    },
+    {
+        "Topic": 11,
+        "Count": 9,
+        "Examples": [
+            "na",
+            "na",
+            "na",
+            "no",
+            "remoterural",
+            "\u00e21",
+            "location",
+            "na",
+            "na"
+        ],
+        "Keywords": [
+            "no",
+            "location",
+            "na"
+        ],
+        "KeywordCounts": {
+            "no": 49,
+            "location": 12,
+            "na": 11
+        }
+    },
+    {
+        "Topic": 12,
+        "Count": 8,
+        "Examples": [
+            "cost accessibility",
+            "expense",
+            "expense",
+            "availability and cost",
+            "expense and availability",
+            "time and availability",
+            "time and cost",
+            "the cost and availability"
+        ],
+        "Keywords": [
+            "cost",
+            "time",
+            "availability",
+            "expense",
+            "cost availability"
+        ],
+        "KeywordCounts": {
+            "cost": 175,
+            "time": 89,
+            "availability": 15,
+            "expense": 10,
+            "cost availability": 1
+        }
+    }
+]

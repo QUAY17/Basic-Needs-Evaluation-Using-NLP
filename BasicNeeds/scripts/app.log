@@ -1,0 +1,276 @@
+2024-07-08 16:42:39,718 INFO:Loading data...
+2024-07-08 16:42:39,720 INFO:Analyzing sentiment for question: How is food or housing insecurity affecting your work?...
+2024-07-08 16:43:05,488 INFO:Extracting keywords...
+2024-07-08 16:43:05,488 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-08 16:43:06,599 INFO:Use pytorch device_name: mps
+2024-07-08 16:43:52,256 INFO:Generating wordcloud...
+2024-07-08 16:43:52,632 INFO:Analyzing topics for column: OE1
+2024-07-08 16:43:52,632 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-08 16:43:53,787 INFO:Use pytorch device_name: mps
+2024-07-08 16:44:01,260 INFO:Topic analysis completed for column: OE1
+2024-07-08 16:44:01,264 INFO:Analyzing sentiment for question: What could your college or university do to address food and housing insecurity? Please share a solution(s)....
+2024-07-08 16:44:31,132 INFO:Extracting keywords...
+2024-07-08 16:44:31,132 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-08 16:44:31,975 INFO:Use pytorch device_name: mps
+2024-07-08 16:45:48,261 INFO:Generating wordcloud...
+2024-07-08 16:45:48,667 INFO:Analyzing topics for column: OE2
+2024-07-08 16:45:48,667 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-08 16:45:49,802 INFO:Use pytorch device_name: mps
+2024-07-08 16:46:03,918 INFO:Topic analysis completed for column: OE2
+2024-07-08 16:46:03,922 INFO:Analyzing sentiment for question: Is there anything else you would like to share?...
+2024-07-08 16:46:22,071 INFO:Extracting keywords...
+2024-07-08 16:46:22,071 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-08 16:46:23,100 INFO:Use pytorch device_name: mps
+2024-07-08 16:46:42,928 INFO:Generating wordcloud...
+2024-07-08 16:46:43,315 INFO:Analyzing topics for column: OE3
+2024-07-08 16:46:43,315 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-08 16:46:44,298 INFO:Use pytorch device_name: mps
+2024-07-08 16:46:47,383 INFO:Topic analysis completed for column: OE3
+2024-07-08 16:46:47,387 INFO:Analyzing sentiment for question: Please select the reasons for not visiting the campus food pantry....
+2024-07-08 16:47:40,408 INFO:Extracting keywords...
+2024-07-08 16:47:40,408 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-08 16:47:41,207 INFO:Use pytorch device_name: mps
+2024-07-08 16:47:48,201 INFO:Generating wordcloud...
+2024-07-08 16:47:48,299 INFO:Analyzing topics for column: Foodpantry_reasons
+2024-07-08 16:47:48,299 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-08 16:47:49,081 INFO:Use pytorch device_name: mps
+2024-07-08 16:47:51,890 INFO:Topic analysis completed for column: Foodpantry_reasons
+2024-07-08 16:47:51,895 INFO:Analyzing sentiment for question: What are your thoughts about food availability on your campus?...
+2024-07-08 17:24:44,450 INFO:Extracting keywords...
+2024-07-08 17:24:44,450 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-08 17:24:45,482 INFO:Use pytorch device_name: mps
+2024-07-08 17:25:34,358 INFO:Generating wordcloud...
+2024-07-08 17:25:34,774 INFO:Analyzing topics for column: Foodavail
+2024-07-08 17:25:34,774 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-08 17:25:35,594 INFO:Use pytorch device_name: mps
+2024-07-08 17:25:41,970 INFO:Topic analysis completed for column: Foodavail
+2024-07-08 17:25:41,974 INFO:Analyzing sentiment for question: Please share why you feel unsafe?...
+2024-07-08 17:25:46,589 INFO:Extracting keywords...
+2024-07-08 17:25:46,590 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-08 17:25:47,429 INFO:Use pytorch device_name: mps
+2024-07-08 17:25:52,418 INFO:Generating wordcloud...
+2024-07-08 17:25:52,802 INFO:Analyzing topics for column: Unsafe_why
+2024-07-08 17:25:52,802 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-08 17:25:53,603 INFO:Use pytorch device_name: mps
+2024-07-08 17:25:55,228 INFO:Topic analysis completed for column: Unsafe_why
+2024-07-08 17:25:55,232 INFO:Analyzing sentiment for question: Please explain why it is difficult to find housing either on-campus or off-campus?...
+2024-07-08 17:25:55,518 INFO:Extracting keywords...
+2024-07-08 17:25:55,518 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-08 17:25:56,297 INFO:Use pytorch device_name: mps
+2024-07-08 17:25:56,393 INFO:Generating wordcloud...
+2024-07-08 17:36:23,725 INFO:Loading data...
+2024-07-08 17:36:23,725 INFO:Analyzing sentiment for question: How is food or housing insecurity affecting your work?...
+2024-07-08 17:36:48,165 INFO:Extracting keywords for column: OE1
+2024-07-08 17:36:48,165 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-08 17:36:49,097 INFO:Use pytorch device_name: mps
+2024-07-08 17:37:34,537 INFO:Generating wordcloud...
+2024-07-08 17:37:34,902 INFO:Keyword extraction completed for column: OE1
+2024-07-08 17:37:34,906 INFO:Analyzing topics for column: OE1
+2024-07-08 17:37:34,906 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-08 17:37:35,799 INFO:Use pytorch device_name: mps
+2024-07-08 17:37:43,233 INFO:Topic analysis completed for column: OE1
+2024-07-08 17:37:43,237 INFO:Analyzing sentiment for question: What could your college or university do to address food and housing insecurity? Please share a solution(s)....
+2024-07-08 17:38:16,325 INFO:Extracting keywords for column: OE2
+2024-07-08 17:38:16,325 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-08 17:38:17,092 INFO:Use pytorch device_name: mps
+2024-07-08 17:39:33,360 INFO:Generating wordcloud...
+2024-07-08 17:39:33,742 INFO:Keyword extraction completed for column: OE2
+2024-07-08 17:39:33,745 INFO:Analyzing topics for column: OE2
+2024-07-08 17:39:33,745 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-08 17:39:34,506 INFO:Use pytorch device_name: mps
+2024-07-08 17:40:41,748 INFO:Topic analysis completed for column: OE2
+2024-07-08 17:40:41,753 INFO:Analyzing sentiment for question: Is there anything else you would like to share?...
+2024-07-08 17:41:00,167 INFO:Extracting keywords for column: OE3
+2024-07-08 17:41:00,167 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-08 17:41:00,960 INFO:Use pytorch device_name: mps
+2024-07-08 17:41:21,116 INFO:Generating wordcloud...
+2024-07-08 17:41:21,536 INFO:Keyword extraction completed for column: OE3
+2024-07-08 17:41:21,539 INFO:Analyzing topics for column: OE3
+2024-07-08 17:41:21,539 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-08 17:41:22,298 INFO:Use pytorch device_name: mps
+2024-07-08 17:41:25,409 INFO:Topic analysis completed for column: OE3
+2024-07-08 17:41:25,413 INFO:Analyzing sentiment for question: Please select the reasons for not visiting the campus food pantry....
+2024-07-08 17:42:19,893 INFO:Extracting keywords for column: Foodpantry_reasons
+2024-07-08 17:42:19,894 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-08 17:42:20,655 INFO:Use pytorch device_name: mps
+2024-07-08 17:42:27,503 INFO:Generating wordcloud...
+2024-07-08 17:42:27,600 INFO:Keyword extraction completed for column: Foodpantry_reasons
+2024-07-08 17:42:27,604 INFO:Analyzing topics for column: Foodpantry_reasons
+2024-07-08 17:42:27,604 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-08 17:42:28,409 INFO:Use pytorch device_name: mps
+2024-07-08 17:42:31,336 INFO:Topic analysis completed for column: Foodpantry_reasons
+2024-07-08 17:42:31,341 INFO:Analyzing sentiment for question: What are your thoughts about food availability on your campus?...
+2024-07-08 17:43:16,528 INFO:Extracting keywords for column: Foodavail
+2024-07-08 17:43:16,529 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-08 17:43:17,318 INFO:Use pytorch device_name: mps
+2024-07-08 17:44:06,129 INFO:Generating wordcloud...
+2024-07-08 17:44:06,518 INFO:Keyword extraction completed for column: Foodavail
+2024-07-08 17:44:06,522 INFO:Analyzing topics for column: Foodavail
+2024-07-08 17:44:06,522 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-08 17:44:07,289 INFO:Use pytorch device_name: mps
+2024-07-08 17:45:27,287 INFO:Topic analysis completed for column: Foodavail
+2024-07-08 17:45:27,292 INFO:Analyzing sentiment for question: Please share why you feel unsafe?...
+2024-07-08 17:45:32,609 INFO:Extracting keywords for column: Unsafe_why
+2024-07-08 17:45:32,609 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-08 17:45:33,371 INFO:Use pytorch device_name: mps
+2024-07-08 17:45:38,498 INFO:Generating wordcloud...
+2024-07-08 17:45:38,888 INFO:Keyword extraction completed for column: Unsafe_why
+2024-07-08 17:45:38,892 INFO:Analyzing topics for column: Unsafe_why
+2024-07-08 17:45:38,892 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-08 17:45:39,738 INFO:Use pytorch device_name: mps
+2024-07-08 17:45:41,433 INFO:Topic analysis completed for column: Unsafe_why
+2024-07-08 17:45:41,437 INFO:Analyzing sentiment for question: Please explain why it is difficult to find housing either on-campus or off-campus?...
+2024-07-08 17:45:41,589 INFO:Extracting keywords for column: Housingdiff_why
+2024-07-08 17:45:41,589 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-08 17:45:42,436 INFO:Use pytorch device_name: mps
+2024-07-08 17:45:42,552 WARNING:No valid responses for column: Housingdiff_why. Skipping keyword extraction and word cloud generation.
+2024-07-08 17:45:42,556 WARNING:No valid responses for column: Housingdiff_why. Skipping topic analysis.
+2024-07-16 13:17:13,847 INFO:Loading data...
+2024-07-16 13:17:13,849 INFO:Analyzing sentiment for question: How is food or housing insecurity affecting your work?...
+2024-07-16 13:17:37,543 INFO:Extracting keywords for column: OE1
+2024-07-16 13:17:37,543 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-16 13:17:39,061 INFO:Use pytorch device_name: mps
+2024-07-16 13:18:25,339 INFO:Generating wordcloud...
+2024-07-16 13:18:25,707 INFO:Keyword extraction completed for column: OE1
+2024-07-16 13:18:25,711 INFO:Analyzing topics for column: OE1
+2024-07-16 13:18:25,711 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-16 13:18:27,009 INFO:Use pytorch device_name: mps
+2024-07-16 13:18:34,521 INFO:Topic analysis completed for column: OE1
+2024-07-16 13:18:34,525 INFO:Analyzing sentiment for question: What could your college or university do to address food and housing insecurity? Please share a solution(s)....
+2024-07-16 13:19:06,822 INFO:Extracting keywords for column: OE2
+2024-07-16 13:19:06,822 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-16 13:19:08,009 INFO:Use pytorch device_name: mps
+2024-07-16 13:19:20,357 INFO:Loading data...
+2024-07-16 13:19:20,358 INFO:Analyzing sentiment for question: How is food or housing insecurity affecting your work?...
+2024-07-16 13:19:44,266 INFO:Extracting keywords for column: OE1
+2024-07-16 13:19:44,266 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-16 13:19:46,261 INFO:Use pytorch device_name: mps
+2024-07-16 13:20:32,463 INFO:Generating wordcloud...
+2024-07-16 13:20:32,842 INFO:Keyword extraction completed for column: OE1
+2024-07-16 13:20:32,845 INFO:Analyzing topics for column: OE1
+2024-07-16 13:20:32,845 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-16 13:20:34,025 INFO:Use pytorch device_name: mps
+2024-07-16 13:20:41,566 INFO:Topic analysis completed for column: OE1
+2024-07-16 13:20:41,571 INFO:Analyzing sentiment for question: What could your college or university do to address food and housing insecurity? Please share a solution(s)....
+2024-07-16 13:21:12,673 INFO:Extracting keywords for column: OE2
+2024-07-16 13:21:12,673 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-16 13:21:13,838 INFO:Use pytorch device_name: mps
+2024-07-16 13:22:30,417 INFO:Generating wordcloud...
+2024-07-16 13:22:30,797 INFO:Keyword extraction completed for column: OE2
+2024-07-16 13:22:30,801 INFO:Analyzing topics for column: OE2
+2024-07-16 13:22:30,801 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-16 13:22:32,297 INFO:Use pytorch device_name: mps
+2024-07-16 13:22:46,572 INFO:Topic analysis completed for column: OE2
+2024-07-16 13:22:46,577 INFO:Analyzing sentiment for question: Is there anything else you would like to share?...
+2024-07-16 13:23:05,133 INFO:Extracting keywords for column: OE3
+2024-07-16 13:23:05,133 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-16 13:23:10,848 INFO:Use pytorch device_name: mps
+2024-07-16 13:23:30,922 INFO:Generating wordcloud...
+2024-07-16 13:23:31,296 INFO:Keyword extraction completed for column: OE3
+2024-07-16 13:23:31,299 INFO:Analyzing topics for column: OE3
+2024-07-16 13:23:31,299 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-16 13:23:33,561 INFO:Use pytorch device_name: mps
+2024-07-16 13:23:36,724 INFO:Topic analysis completed for column: OE3
+2024-07-16 13:23:36,729 INFO:Analyzing sentiment for question: Please select the reasons for not visiting the campus food pantry....
+2024-07-16 13:24:30,804 INFO:Extracting keywords for column: Foodpantry_reasons
+2024-07-16 13:24:30,804 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-16 13:24:32,132 INFO:Use pytorch device_name: mps
+2024-07-16 13:24:39,242 INFO:Generating wordcloud...
+2024-07-16 13:24:39,338 INFO:Keyword extraction completed for column: Foodpantry_reasons
+2024-07-16 13:24:39,342 INFO:Analyzing topics for column: Foodpantry_reasons
+2024-07-16 13:24:39,342 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-16 13:24:40,576 INFO:Use pytorch device_name: mps
+2024-07-16 13:24:43,548 INFO:Topic analysis completed for column: Foodpantry_reasons
+2024-07-16 13:24:43,552 INFO:Analyzing sentiment for question: What are your thoughts about food availability on your campus?...
+2024-07-16 13:25:32,716 INFO:Extracting keywords for column: Foodavail
+2024-07-16 13:25:32,716 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-16 13:25:34,324 INFO:Use pytorch device_name: mps
+2024-07-16 13:26:24,755 INFO:Generating wordcloud...
+2024-07-16 13:26:25,154 INFO:Keyword extraction completed for column: Foodavail
+2024-07-16 13:26:25,158 INFO:Analyzing topics for column: Foodavail
+2024-07-16 13:26:25,158 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-16 13:26:26,460 INFO:Use pytorch device_name: mps
+2024-07-16 13:26:33,086 INFO:Topic analysis completed for column: Foodavail
+2024-07-16 13:26:33,091 INFO:Analyzing sentiment for question: Please share why you feel unsafe?...
+2024-07-16 13:26:37,804 INFO:Extracting keywords for column: Unsafe_why
+2024-07-16 13:26:37,804 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-16 13:26:39,012 INFO:Use pytorch device_name: mps
+2024-07-16 13:26:43,843 INFO:Generating wordcloud...
+2024-07-16 13:26:44,230 INFO:Keyword extraction completed for column: Unsafe_why
+2024-07-16 13:26:44,234 INFO:Analyzing topics for column: Unsafe_why
+2024-07-16 13:26:44,234 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-16 13:26:45,466 INFO:Use pytorch device_name: mps
+2024-07-16 13:26:47,228 INFO:Topic analysis completed for column: Unsafe_why
+2024-07-16 13:26:47,232 INFO:Analyzing sentiment for question: Please explain why it is difficult to find housing either on-campus or off-campus?...
+2024-07-16 13:26:47,436 INFO:Extracting keywords for column: Housingdiff_why
+2024-07-16 13:26:47,436 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-16 13:26:48,628 INFO:Use pytorch device_name: mps
+2024-07-16 13:26:48,754 WARNING:No valid responses for column: Housingdiff_why. Skipping keyword extraction and word cloud generation.
+2024-07-16 13:26:48,758 WARNING:No valid responses for column: Housingdiff_why. Skipping topic analysis.
+2024-07-16 13:39:13,479 INFO:Loading data...
+2024-07-16 13:39:13,481 INFO:Analyzing sentiment for question: How is food or housing insecurity affecting your work?...
+2024-07-16 13:39:37,702 INFO:Extracting keywords for column: OE1
+2024-07-16 13:39:37,702 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-16 13:39:39,357 INFO:Use pytorch device_name: mps
+2024-07-16 13:40:24,807 INFO:Generating wordcloud...
+2024-07-16 13:40:25,157 INFO:Keyword extraction completed for column: OE1
+2024-07-16 13:40:25,161 INFO:Analyzing topics for column: OE1
+2024-07-16 13:40:25,161 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-16 13:40:26,418 INFO:Use pytorch device_name: mps
+2024-07-16 13:40:33,955 INFO:Topic analysis completed for column: OE1
+2024-07-16 13:40:33,959 INFO:Analyzing sentiment for question: What could your college or university do to address food and housing insecurity? Please share a solution(s)....
+2024-07-16 13:41:04,998 INFO:Extracting keywords for column: OE2
+2024-07-16 13:41:04,998 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-16 13:41:06,346 INFO:Use pytorch device_name: mps
+2024-07-16 13:42:23,452 INFO:Generating wordcloud...
+2024-07-16 13:42:23,824 INFO:Keyword extraction completed for column: OE2
+2024-07-16 13:42:23,828 INFO:Analyzing topics for column: OE2
+2024-07-16 13:42:23,829 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-16 13:42:26,063 INFO:Use pytorch device_name: mps
+2024-07-16 13:42:40,226 INFO:Topic analysis completed for column: OE2
+2024-07-16 13:42:40,231 INFO:Analyzing sentiment for question: Is there anything else you would like to share?...
+2024-07-16 13:42:57,631 INFO:Extracting keywords for column: OE3
+2024-07-16 13:42:57,631 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-16 13:42:59,097 INFO:Use pytorch device_name: mps
+2024-07-16 13:43:19,089 INFO:Generating wordcloud...
+2024-07-16 13:43:19,471 INFO:Keyword extraction completed for column: OE3
+2024-07-16 13:43:19,475 INFO:Analyzing topics for column: OE3
+2024-07-16 13:43:19,475 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-16 13:43:20,721 INFO:Use pytorch device_name: mps
+2024-07-16 13:43:23,819 INFO:Topic analysis completed for column: OE3
+2024-07-16 13:43:23,824 INFO:Analyzing sentiment for question: Please select the reasons for not visiting the campus food pantry....
+2024-07-16 13:44:15,305 INFO:Extracting keywords for column: Foodpantry_reasons
+2024-07-16 13:44:15,305 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-16 13:44:16,553 INFO:Use pytorch device_name: mps
+2024-07-16 13:44:23,606 INFO:Generating wordcloud...
+2024-07-16 13:44:23,703 INFO:Keyword extraction completed for column: Foodpantry_reasons
+2024-07-16 13:44:23,707 INFO:Analyzing topics for column: Foodpantry_reasons
+2024-07-16 13:44:23,707 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-16 13:44:24,937 INFO:Use pytorch device_name: mps
+2024-07-16 13:44:27,768 INFO:Topic analysis completed for column: Foodpantry_reasons
+2024-07-16 13:44:27,772 INFO:Analyzing sentiment for question: What are your thoughts about food availability on your campus?...
+2024-07-16 13:45:10,938 INFO:Extracting keywords for column: Foodavail
+2024-07-16 13:45:10,938 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-16 13:45:12,826 INFO:Use pytorch device_name: mps
+2024-07-16 13:46:02,110 INFO:Generating wordcloud...
+2024-07-16 13:46:02,485 INFO:Keyword extraction completed for column: Foodavail
+2024-07-16 13:46:02,488 INFO:Analyzing topics for column: Foodavail
+2024-07-16 13:46:02,489 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-16 13:46:04,699 INFO:Use pytorch device_name: mps
+2024-07-16 13:46:11,307 INFO:Topic analysis completed for column: Foodavail
+2024-07-16 13:46:11,313 INFO:Analyzing sentiment for question: Please share why you feel unsafe?...
+2024-07-16 13:46:15,655 INFO:Extracting keywords for column: Unsafe_why
+2024-07-16 13:46:15,655 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-16 13:46:18,116 INFO:Use pytorch device_name: mps
+2024-07-16 13:46:22,946 INFO:Generating wordcloud...
+2024-07-16 13:46:23,343 INFO:Keyword extraction completed for column: Unsafe_why
+2024-07-16 13:46:23,346 INFO:Analyzing topics for column: Unsafe_why
+2024-07-16 13:46:23,346 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-16 13:46:24,997 INFO:Use pytorch device_name: mps
+2024-07-16 13:46:26,660 INFO:Topic analysis completed for column: Unsafe_why
+2024-07-16 13:46:26,664 INFO:Analyzing sentiment for question: Please explain why it is difficult to find housing either on-campus or off-campus?...
+2024-07-16 13:46:26,864 INFO:Extracting keywords for column: Housingdiff_why
+2024-07-16 13:46:26,864 INFO:Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-07-16 13:46:28,703 INFO:Use pytorch device_name: mps
+2024-07-16 13:46:28,816 WARNING:No valid responses for column: Housingdiff_why. Skipping keyword extraction and word cloud generation.
+2024-07-16 13:46:28,820 WARNING:No valid responses for column: Housingdiff_why. Skipping topic analysis.
