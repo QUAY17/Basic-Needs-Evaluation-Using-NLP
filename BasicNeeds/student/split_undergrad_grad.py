@@ -14,36 +14,30 @@ student_roles = [
     'Graduate or professional student',
 ]
 
-# Filter to keep ONLY these student roles
+# Filter to keep ONLY these student roles for student data
 student_data = data[data['Type'].isin(student_roles)]
 
-# Save the combined student data
-student_output_file = 'all_students_data.csv'
-student_data.to_csv(student_output_file, index=False)
+# Get non-student data
+non_student_data = data[~data['Type'].isin(student_roles)]
 
-# Still create separate files for each student type if needed
-undergrad_pt_data = student_data[student_data['Type'] == 'Undergraduate student (Part-time, less than 12 credit hours)']
-undergrad_ft_data = student_data[student_data['Type'] == 'Undergraduate student (Full-time, 12 credit hours or more)']
-grad_data = student_data[student_data['Type'] == 'Graduate or professional student']
+# Count all types including non-student roles
+all_type_counts = data['Type'].value_counts()
 
-# Save individual files
-undergrad_pt_file = 'undergrad_pt_data.csv'
-undergrad_ft_file = 'undergrad_ft_data.csv'
-grad_file = 'grad_data.csv'
-
-undergrad_pt_data.to_csv(undergrad_pt_file, index=False)
-undergrad_ft_data.to_csv(undergrad_ft_file, index=False)
-grad_data.to_csv(grad_file, index=False)
-
-# Count responses
+# Count student responses
 total_students = len(student_data)
-undergrad_ft_count = len(undergrad_ft_data)
-undergrad_pt_count = len(undergrad_pt_data)
-grad_count = len(grad_data)
+undergrad_ft_count = len(student_data[student_data['Type'] == 'Undergraduate student (Full-time, 12 credit hours or more)'])
+undergrad_pt_count = len(student_data[student_data['Type'] == 'Undergraduate student (Part-time, less than 12 credit hours)'])
+grad_count = len(student_data[student_data['Type'] == 'Graduate or professional student'])
 
-# Print results
-print(f"Combined student data saved to {student_output_file} with {total_students} total students")
-print(f"Breakdown:")
+print("\nComplete breakdown of all types in dataset:")
+print("-------------------------------------------")
+for type_name, count in all_type_counts.items():
+    print(f"{type_name}: {count}")
+
+print("\nSummary:")
+print("--------")
+print(f"Total students: {total_students}")
 print(f"- Full-time undergrad students: {undergrad_ft_count}")
 print(f"- Part-time undergrad students: {undergrad_pt_count}")
 print(f"- Graduate students: {grad_count}")
+print(f"\nTotal non-student responses: {len(non_student_data)}")
