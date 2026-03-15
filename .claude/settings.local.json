@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh auth:*)",
+      "Bash(cmd.exe //c \"where gh\")",
+      "Bash(powershell.exe -Command \"Get-Command gh -ErrorAction SilentlyContinue | Select-Object -ExpandProperty Source\")",
+      "Bash(powershell.exe -Command \"winget install --id GitHub.cli --accept-source-agreements --accept-package-agreements\")",
+      "Bash(powershell.exe -Command \"& ''C:\\\\Program Files\\\\GitHub CLI\\\\gh.exe'' --version\")"
+    ]
+  }
+}
